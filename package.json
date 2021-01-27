@@ -1,0 +1,14 @@
+{
+  "name": "css-static-landing-page",
+  "version": "1.0.0",
+  "description": "A Static CSS Landing Page",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "DylanHood",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.5.3"
+  }
+}
