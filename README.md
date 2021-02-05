@@ -1,1 +1,1 @@
-# CSS-Static-Landing-Page
+# Stitch-Static-Site
